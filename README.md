@@ -1,4 +1,4 @@
-# KR_unilateral_tax
+# KR_UnilateralTaxPolicy
 code for replicating the numerical simulations in Kohl & Richter "Unilateral Tax Policy in the Open Economy"
 
 The Mathematica code can be found in 2 separate files. 
