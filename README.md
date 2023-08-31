@@ -4,7 +4,7 @@ code for replicating the numerical simulations in Kohl & Richter "Unilateral Tax
 The Mathematica code can be found in 2 separate files. 
 
 1) "UnilateralTaxPolicy_LogLin_Kohl_Richter"
-    - This file serves to compile Figure 1 & Figure 2 in Section 4 of the paper.
+    - This file serves to compile Figure 1 & Figure 2 in Section 4 and Figure A.1 in Appendix A.4 of the paper.
 
 3) "UnilateralTaxPolicy_Levels_Kohl_Richter"
     - This file serves to numerically simulate our model in levels. 
